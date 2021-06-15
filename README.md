@@ -11,17 +11,17 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 
 [Bot Features 🔥](https://github.com/itsyogieu/ybrename#bot-features- )
 
-[Required Vars 💥](https://github.com/ybrename/TG-RENAMER-BOT#required-vars-)
+[Required Vars 💥](https://github.com/itsyogieu/ybrename#required-vars-)
 
-[Optional Vars 💬](https://github.com/ybrename/TG-RENAMER-BOT#optional-vars-)
+[Optional Vars 💬](https://github.com/itsyogieu/ybrename#optional-vars-)
 
-[Available Commands 🤖](https://github.com/ybrename/TG-RENAMER-BOT#available-commands-)
+[Available Commands 🤖](https://github.com/itsyogieu/ybrename#available-commands-)
 
-[Dev 🧑‍💻](https://github.com/yogeshbots/YB-RENAMER-BOT#dev-)
+[Dev 🧑‍💻](https://github.com/itsyogieu/ybrename#dev-)
 
-[TODO 🤧](https://github.com/Ns-Bots/TG-RENAMER-BOT#todo-)
+[TODO 🤧](https://github.com/itsyogieu/ybrename#todo-)
 
-[Thanks And Credits 🎉](https://github.com/Ns-Bots/TG-RENAMER-BOT#thanks-and-credits-)
+[Thanks And Credits 🎉](https://github.com/itsyogieu/ybrename#thanks-and-credits-)
 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
