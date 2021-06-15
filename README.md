@@ -9,7 +9,7 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 ## Mapping
 [Deploy to Heroku 🗳](https://github.com/ybrename/TG-RENAMER-BOT#deploy-to-heroku-)
 
-[Bot Features 🔥](https://github.com/itsyogieu/YB-Renamer-Bot#bot-features-)
+[Bot Features 🔥](https://github.com/itsyogieu/ybrename/blob/main/README.md#bot-features-)
 
 [Required Vars 💥](https://github.com/ybrename/TG-RENAMER-BOT#required-vars-)
 
