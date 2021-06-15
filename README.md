@@ -9,7 +9,7 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 ## Mapping
 [Deploy to Heroku 🗳](https://github.com/ybrename/TG-RENAMER-BOT#deploy-to-heroku-)
 
-[Bot Features 🔥](https://github.com/itsyogieu/ybrename/blob/main/botfeatures.md#bot-features- )
+[Bot Features 🔥](https://github.com/itsyogieu/ybrename/botfeatures.md#bot-features- )
 
 [Required Vars 💥](https://github.com/ybrename/TG-RENAMER-BOT#required-vars-)
 
@@ -51,7 +51,7 @@ Press the following button to deploy in heroku.
 
 - `BOT_TOKEN:` Get the bot token from [Bot Father <img src="https://telegra.ph/file/8d80c13110506bf1cb58e.jpg" width="30" height="30">](https://telegram.dog/BotFather)
 
-- `OWNER_ID:` Your Telegram user id, Get this value from [@FileStore_Nsbot](https://telegram.dog/FileStore_Nsbot)
+- `OWNER_ID:` Your Telegram user id, 
 
 
 ## Optional Vars 💬
