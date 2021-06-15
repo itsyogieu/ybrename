@@ -29,7 +29,7 @@ Press the following button to deploy in heroku.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsyogieu/ybrename)
 
 ## Bot Features 🔥
-- Renaming Telegram files as file or video.
+- Renaming Telegram files as file or video..
 
 - Trace Channel to track the users what they are doing with your bot.
 
