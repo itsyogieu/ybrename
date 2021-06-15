@@ -85,7 +85,7 @@ login - (when password is given) to login to bot
 <p align="middle">
 <img src="https://telegra.ph/file/ebe0596ed19db15cc4637.jpg"<br>
 <img src="https://badgen.net/badge/Name/Yogesh/FF33FF?icon=awesome&labelColor=0080FF"></a>
-<img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
+<img src="https://badgen.net/badge/Skills/Yogesh/purple?icon=terminal&labelColor=red"></a>
 <a href="https://telegram.dog/Ns_Anonymous"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 <a href="https://github.com/Ns-AnoNymouS"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
 <a href="https://youtube.com/channel/UC9NnqJ63aSzv457iUMM06vQ"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
