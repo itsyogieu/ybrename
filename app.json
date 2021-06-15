@@ -1,7 +1,7 @@
 {
     "name": "YB Renamer Bot",
     "description": "The Telegram file renamer bot with Many Features.",
-    "logo": "https://telegra.ph/file/8324a0863fed98d4dfb6c.jpg",
+    "logo": "https://telegra.ph/file/ebe0596ed19db15cc4637.jpg",
 
     "keywords": [
         "telegram",
@@ -12,8 +12,8 @@
 
     "repository": "https://github.com/Ns-AnoNymouS/Renamer",
     "stack": "heroku-20",
-    "website": "https://t.me/Ns_bot_updates",
-    "success_url": "https://t.me/RenamerNs_bot",
+    "website": "https://t.me/YogeshBots",
+    "success_url": "https://t.me/YBRenamerBot",
 
     "env": {
         "API_HASH": {
