@@ -84,7 +84,7 @@ login - (when password is given) to login to bot
 ## Dev 🧑‍💻
 <p align="middle">
 <img src="https://telegra.ph/file/ebe0596ed19db15cc4637.jpg"<br>
-<p align= "nextline"> 
+<p align="center"> 
   <img src="https://badgen.net/badge/Name/Yogesh/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
 <a href="https://bit.ly/3gwsct3"><img src="https://img.shields.io/badge/Instagram-Follow-pink.svg?logo=instagram"></a>
