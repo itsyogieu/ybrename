@@ -36,7 +36,7 @@ class TEXT:
 ☞︎︎︎ Now send me the Telegram file you want to rename.
 ☞︎︎︎ Send the new name when bot ask.
 
-For subscribe check about
+For More check about
 """
 
     START_TEXT = """Hi {user_mention},
