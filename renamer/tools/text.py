@@ -26,7 +26,7 @@ class TEXT:
 
 ** Follow:** [Instagram](https://bit.ly/3gwsct3)
 
-** Subscribe Now:** [Press Me](https://bit.ly/3iDiZAu)
+** Subscribe YouTube:** [Press Me](https://bit.ly/3iDiZAu)
 """
 
     HELP_USER = """**Follow Below Steps:**
