@@ -22,7 +22,7 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [YOGESH BOTS UPDATES](https://telegram.me/YogeshBots)
+** Channel:** [YOGESH BOTS](https://telegram.me/YogeshBots)
 
 ** Follow:** [Me](https://bit.ly/3gwsct3)
 
@@ -41,7 +41,7 @@ For subscribe check about
 
     START_TEXT = """Hi {user_mention},
 
-I am a telegram yb renamer bot with permanent thumbnail.
+I am a Telegram YB Renamer Bot with Permanent Thumbnail.
 
 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
 
