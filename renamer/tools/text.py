@@ -22,7 +22,7 @@ class TEXT:
 
 ** Developer:** [Yogesh](https://bit.ly/3gwsct3)
 
-** Channel:** [YOGESH BOTS](https://telegram.me/YogeshBots)
+** Channel:** [YogeshBots](https://telegram.me/YogeshBots)
 
 ** Follow:** [Instagram](https://bit.ly/3gwsct3)
 
