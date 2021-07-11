@@ -89,7 +89,7 @@ login - (when password is given) to login to bot
 <img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
 <a href="https://bit.ly/3gwsct3"><img src="https://img.shields.io/badge/Instagram-Follow-pink.svg?logo=instagram"></a>
 <a href="https://github.com/itsyogieu"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
-<a href="https://bit.ly/3iDiZAu"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+<a href="https://bit.ly/3y3Ej6u"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 <p align="left">
 </p>
 
