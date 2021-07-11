@@ -22,9 +22,9 @@ async def force_sub(c, m):
             return await m.reply_text(text="Hey join in my updates channel to use me.", parse_mode='markdown', reply_markup=markup, quote=True)
 
         except ChatAdminRequired:
-            logger.warning(f"Make me admin in @{Config.FORCE_SUB}")
+            logger.warning(f"𝗬𝗼𝘂 𝗠𝘂𝘀𝘁 𝗝𝗼𝗶𝗻 𝗧𝗵𝗶𝘀 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗧𝗼 𝗨𝘀𝗲 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 @{Config.FORCE_SUB}")
             if m.from_user.id in Config.AUTH_USERS:
-                return await m.reply_text(f"Make me admin in @{Config.FORCE_SUB}")
+                return await m.reply_text(f"𝗬𝗼𝘂 𝗠𝘂𝘀𝘁 𝗝𝗼𝗶𝗻 𝗧𝗵𝗶𝘀 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗧𝗼 𝗨𝘀𝗲 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 @{Config.FORCE_SUB}")
             
             
                 
