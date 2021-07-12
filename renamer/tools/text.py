@@ -22,7 +22,7 @@ class TEXT:
 
 ** Developer:** [Yogesh](https://bit.ly/3gwsct3)
 
-** Channel:** [YogeshBots](https://telegram.me/YogeshBots)
+** Channel:** [Yogesh Bots](https://telegram.me/YogeshBots)
 
 ** Follow:** [Instagram](https://bit.ly/3gwsct3)
 
@@ -45,7 +45,7 @@ I am a Telegram YB Renamer Bot with Permanent Thumbnail.
 
 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
 
-**Maintained By:** [Yogesh](https://bit.ly/3gwsct3)
+**Maintained By:** [Yogesh Bots](https://telegram.me/YogeshBots)
 """
 
 
